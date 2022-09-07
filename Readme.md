@@ -78,7 +78,7 @@ If facing any issue while running project, install specific versions of tools us
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src = "images/fifth.jpeg" height="360" width="180"/>
-    <img src = "images/sixth.jpeg" height="360" width="180"/>
+    
   </div>
 </div>
 
